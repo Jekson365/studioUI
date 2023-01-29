@@ -5,13 +5,16 @@
     text-decoration: none;
     list-style: none;
 }
+body {
+    background-color: #0C111F;
+}
 
 a {
     text-decoration: none;
 }
 
 .header-cover {
-    background-color: black;
+    background-color: #0C111F;
     width: 100%;
 
     .active-bar {
@@ -72,5 +75,36 @@ a {
                 align-items: center;
             }
         }
+    }
+}
+.content {
+
+    .tt {
+        font-weight: bold;
+        font-size:3rem;
+    }
+    .desc {
+        width: 90%;
+        margin: 20px 0;
+        color: #75809d;
+        line-height: 25px;
+        letter-spacing: 1px;
+        font-size: 1rem;
+    }
+    .cnt {
+        font-size: 14px;
+        letter-spacing: 1px;
+        color: white;
+        background-color: #3898EC;
+        border-radius: 30px;
+        padding: 10px 20px;
+    }
+}   
+
+.asd {
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 }
