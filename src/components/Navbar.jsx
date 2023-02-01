@@ -10,7 +10,7 @@ import { FaLinkedin } from 'react-icons/fa'
 const LOGO = 'https://assets.website-files.com/634d6064d1c6401d462f6757/635bca581cfdc01f723c4b0f_logo-white.png'
 
 export const Navbar = () => {
-    const [active,setActive] = useState(true)
+    const [active,setActive] = useState(false)
     return (
         <>
             <div className="header-cover">
