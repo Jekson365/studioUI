@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+const str = 'https://assets.website-files.com/634d6064d1c6401d462f6757/635ba519e453a6f3ca77bf49_stars.svg'
 export const FourthRow = () => {
     const arr = [
         {
@@ -23,35 +25,52 @@ export const FourthRow = () => {
     ]
     return (
         <>
-            <div className="container">
+            <div className="container" style={{ "maxWidth": "1240px" }}>
                 <div className="review">
                     <div className="saca">
-                        <div className='lrm bg-danger'>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                        <div className='lrm'>
+                            <img src={str} />
+                            <p className="p">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                            </p>
                         </div>
-                        <div className='lrm bg-danger'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. SuLorem ipsum dolor sit amet, consectetur adipiscing elit. Su
-
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
-                            </div>
-                    </div>
-                    <div className="saca">
-                        <div className='lrm bg-danger'>
-                            Lorem ip
-                            sum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
-                            sum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
-                        </div>
-                        <div className='lrm bg-danger'>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae era ndisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                        <div className='lrm'>
+                            <img src={str} />
+                            <p className="p">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. SuLorem ipsum dolor sit amet, consectetur adipiscing elit. Su
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                            </p>
                         </div>
                     </div>
                     <div className="saca">
-                        <div className='lrm bg-danger'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                        <div className='lrm'>
+                            <img src={str} />
+                            <p className="p">
+                                Lorem ip
+                                sum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                                sum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                            </p>
                         </div>
-                        <div className='lrm bg-danger'>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.  consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                        <div className='lrm'>
+                            <img src={str} />
+                            <p className="p">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae era ndisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                            </p>
+                        </div>
+                    </div>
+                    <div className="saca">
+                        <div className='lrm'>
+                            <img src={str} />
+                            <p className="p">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Su
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                            </p>
+                        </div>
+                        <div className='lrm'>
+                            <img src={str} />
+                            <p className="p">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.  consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+                            </p>
                         </div>
                     </div>
                 </div>

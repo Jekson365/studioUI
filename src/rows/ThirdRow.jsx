@@ -7,25 +7,25 @@ export const ThirdRow = () => {
             img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
         },
         {
-            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
+            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e4072a3c82665e55f2c7_blue-ball-3d-p-800.jpg",
         },
         {
-            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
+            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e4182a3c8242dc55f310_website-design-p-800.jpg",
         },
         {
-            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
+            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e424b7651533d26bb9e6_waves-background-p-800.jpg",
         },
         {
-            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
+            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e42dc01358defd3aae60_app-store-logo-p-800.jpg",
         },
         {
-            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
+            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e44b013e6aa3e9470fb0_monster-3d-p-800.jpg",
         },
         {
-            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
+            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e4584443c4657b6f7592_building-blocks-p-800.jpg",
         },
         {
-            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e2ded3daac2e14977780_joystick-blue-p-800.jpg",
+            img: "https://assets.website-files.com/6364e2710bb372fbb357f912/6364e463eb8de501b4ca77f4_abstract-figure-p-800.jpg",
         },
     ]
     return (
